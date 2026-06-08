@@ -3,6 +3,7 @@
 > Mi programa bien chidoris que cambiarán al mundo
 
 ADIOS
+```bash
   _,-""`""-~`)
 (`~_,=========\
  |---,___.-.__,\
@@ -19,3 +20,4 @@ ADIOS
                               \       \
                                '.     /
                                  `"~"`
+```
