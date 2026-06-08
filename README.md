@@ -1,2 +1,5 @@
 # UPY-PROGRAMMING-JORGE-PEDROZO-Q2-2026
-Repositorio de trabajo de la materia de Programaciòn de la UPY
+
+> Mi programa bien chidoris que cambiarán al mundo
+
+ADIOS
