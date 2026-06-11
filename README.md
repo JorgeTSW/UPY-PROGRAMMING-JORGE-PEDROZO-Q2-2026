@@ -1,23 +1,46 @@
-# UPY-PROGRAMMING-JORGE-PEDROZO-Q2-2026
+# Git/GitHub Repository
 
-> Mi programa bien chidoris que cambiarán al mundo
+This repository contains Python-based implementations, developed as part of **Unit 2** for the Programming course (Q2-2026). The objective of this assignment is to establish a professional development environment using Git for version control and GitHub for remote collaboration.
 
-ADIOS
-```bash
-  _,-""`""-~`)
-(`~_,=========\
- |---,___.-.__,\
- |        o     \ ___  _,,,,_     _.--.
-  \      `^`    /`_.-"~      `~-;`     \
-   \_      _  .'                 `,     |
-     |`-                           \'__/
-    /                      ,_       \  `'-.
-   /    .-""~~--.            `"-,   ;_    /
-  |              \               \  | `""`
-   \__.--'`"-.   /_               |'
-              `"`  `~~~---..,     |
- jgs                         \ _.-'`-.
-                              \       \
-                               '.     /
-                                 `"~"`
+---
+
+## Project Description
+
+The included Python script (`cw05.py`) is a text-based game inspired by "The Password Game." It challenges the user to create a password that satisfies a series of increasingly strict validation rules.
+
+The program utilizes a `while` loop to continuously check the input against requirements such as:
+* **Length Constraints:** Must be at least 8 characters long and its total length must be a prime number.
+* **Character Diversity:** Requires at least one uppercase letter, one lowercase letter, one digit, and one special character (`!@#$%^&`).
+* **Mathematical Validation:** The sum of all numerical digits within the password must be greater than or equal to 25.
+* **Thematic Rule:** Must contain the current month ("june", case-insensitive).
+
+---
+
+## Environment & Tools
+
+* **Language:** Python 3.x
+* **Version Control:** Git
+* **Hosting Platform:** GitHub
+
+---
+
+## How to Run the Program
+
+1. Ensure you have Python installed on your system.
+2. Clone this repository or download the source file:
+   ```bash
+   git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/UPY-PROGRAMMING-[YOUR-NAME]-[YOUR-LAST_NAME]-Q2-2026.git
+
 ```
+
+3. Navigate to the project directory and execute the script:
+```bash
+python cw05.py
+
+```
+
+---
+
+## AI Use Declaration
+
+## No AI tools were used during the development or version control setup of this specific assignment.
