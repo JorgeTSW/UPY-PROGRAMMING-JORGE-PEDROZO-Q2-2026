@@ -28,15 +28,13 @@ The program utilizes a `while` loop to continuously check the input against requ
 
 1. Ensure you have Python installed on your system.
 2. Clone this repository or download the source file:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/UPY-PROGRAMMING-[YOUR-NAME]-[YOUR-LAST_NAME]-Q2-2026.git
-
+```bash
+git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/UPY-PROGRAMMING-[YOUR-NAME]-[YOUR-LAST_NAME]-Q2-2026.git
 ```
 
 3. Navigate to the project directory and execute the script:
 ```bash
 python cw05.py
-
 ```
 
 ---
